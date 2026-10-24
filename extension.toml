@@ -1,1 +1,8 @@
+id = "orbit-zed-theme"
+name = "Orbit Zed Theme"
+version = "0.0.1"
+schema_version = 1
+authors = ["OrbitMoon Sounds"]
+description = "Orbit Zed Theme."
+repository = "https://github.com/louisfiol/Orbit-Zed-Theme"
 
