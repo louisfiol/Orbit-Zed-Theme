@@ -1,8 +1,13 @@
-id = "orbit-zed-theme"
-name = "Orbit Zed Theme"
+id = "matanzas-icon"
+name = "Matanzas Icon"
 version = "0.0.1"
 schema_version = 1
-authors = ["OrbitMoon Sounds"]
-description = "Orbit Zed Theme."
+authors = ["J-Barroso"]
+description = "my-theme-light"
 repository = "https://github.com/louisfiol/Orbit-Zed-Theme"
+themes = [ "themes/matanzas-theme.json"]
+themes2 = [ "themes/cardenas-theme.json"]
+icon_themes = ["icon-themes/matanzas-icon-theme.json"]
+languages = []
+capabilities = []
 
