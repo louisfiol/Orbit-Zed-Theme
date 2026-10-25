@@ -1,9 +1,10 @@
 {
-  "name": "Orbit Zed Theme",
-  "author": "Orbit Zed Theme: Zed Theme Importer",
+  "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
+  "name": "my-theme (Custom)",
+  "author": "J-Barroso",
   "themes": [
     {
-      "name": "Orbit Zed Theme",
+      "name": "my-theme Light",
       "appearance": "light",
       "style": {
         "border": "#373787FF",
@@ -435,4 +436,3 @@
   "isUserGenerated": true,
   "description": "my-theme-light"
 }
-
